@@ -1,0 +1,62 @@
+/* body {
+    background-color: #F2F2F2;
+} */
+
+
+.navbar {
+    background-color: #F2F2F2;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-position: 50px;
+}
+
+.contentPage {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
+
+/* Edição dos efeitos dos botões
+Editing botton effects */
+.btn-outline-success {
+    color: #424242;
+    border-color: #424242;
+  }
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color: #424242;
+    border-color: #424254;
+  }
+  .btn-check:focus + .btn-outline-success, .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.25rem rgba(151, 151, 151, 0.5);
+  }
+  .btn-check:checked + .btn-outline-success, .btn-check:active + .btn-outline-success, .btn-outline-success:active, .btn-outline-success.active, .btn-outline-success.dropdown-toggle.show {
+    color: #fff;
+    background-color: #424242;
+    border-color: #424242;
+  }
+  .btn-check:checked + .btn-outline-success:focus, .btn-check:active + .btn-outline-success:focus, .btn-outline-success:active:focus, .btn-outline-success.active:focus, .btn-outline-success.dropdown-toggle.show:focus {
+    box-shadow: 0 0 0 0.25rem rgba(151, 151, 151, 0.5);
+  }
+  .btn-outline-success:disabled, .btn-outline-success.disabled {
+    color: #424242;
+    background-color: transparent;
+  }
+  /* Fim da edição dos efeitos dos botões
+End editing botton effects */
+
+#logotipo {
+    max-width: 50px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+    margin-right: 25px;
+}
+
+
